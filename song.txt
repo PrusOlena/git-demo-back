@@ -3,7 +3,6 @@ the champions
 my friend
 and we'll 
 keep on fighting
-<<<<<<< HEAD
 till the end
 we are the champions
 we are the champions
@@ -11,7 +10,4 @@ no time
 for losers
 'cause we are the champions
 of the World
-________________
-=======
-anyway
->>>>>>> cfd16d1144a152cda27bb8145441f18359b221ef
+
